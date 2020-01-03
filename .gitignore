@@ -33,6 +33,4 @@ gen
 hs_err_pid*
 
 .idea/
-pom.xml
 rabbitmq-chat.iml
-src/
